@@ -1,22 +1,40 @@
-  "ranges": {
-    "Australian Department of Parliamentary Services": [
-      ["164.75.0.0", "164.75.15.255"],
-      ["202.14.81.0", "202.14.81.255"]
-    ],
-    "Parliament of Western Australia": [
-      ["203.26.90.0", "203.26.91.255"]
-    ],
-    "Parliament of New South Wales": [
-      ["203.31.230.0", "203.31.231.255"]
-    ],
-    "Parliament of Victoria": [
-      ["203.16.24.0", "203.16.25.255"],
-      ["203.33.151.0", "203.33.151.255"]
-    ],
-    "Parliament of Tasmania": [
-      ["147.109.254.170", "147.109.254.170"]
-    ],
-    "Parliament of Queensland": [
-      ["203.63.228.128", "203.63.228.255"]
-    ]
+{
+    "ranges": {
+        "Australian Department of Parliamentary Services": [
+            [
+                "164.75.0.0", "164.75.15.255"
+            ],
+            [
+                "202.14.81.0", "202.14.81.255"
+            ]
+        ],
+        "Parliament of Western Australia": [
+            [
+                "203.26.90.0", "203.26.91.255"
+            ]
+        ],
+        "Parliament of New South Wales": [
+            [
+                "203.31.230.0", "203.31.231.255"
+            ]
+        ],
+        "Parliament of Victoria": [
+            [
+                "203.16.24.0", "203.16.25.255"
+            ],
+            [
+                "203.33.151.0", "203.33.151.255"
+            ]
+        ],
+        "Parliament of Tasmania": [
+            [
+                "147.109.254.170", "147.109.254.170"
+            ]
+        ],
+        "Parliament of Queensland": [
+            [
+                "203.63.228.128", "203.63.228.255"
+            ]
+        ]
     }
+}
