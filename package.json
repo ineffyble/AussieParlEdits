@@ -19,6 +19,6 @@
   },
   "scripts": {
     "test": "mocha --colors --reporter spec --compilers coffee:coffee-script/register test.coffee",
-    "start": "coffee anon.coffee"
+    "start": "coffee anon.coffee --verbose"
   }
 }
